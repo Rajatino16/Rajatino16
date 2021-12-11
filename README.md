@@ -38,6 +38,6 @@ In my spare time, I have been learning more about artificial intelligence. I am 
 ## :octocat: Github Stats 
  
  
-[![](https://github-readme-stats.vercel.app/api?username=Rajatino16&count_private=true)](https://github.com/Rajatino16/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatino16&hide=jupyter%20notebook,html&layout=compact&langs_count=8)](https://github.com/Rajatino16/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=Rajatino16&count_private=true&show_icons=true)](https://github.com/Rajatino16/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatino16&hide=jupyter%20notebook,html&layout=compact&langs_count=6)](https://github.com/Rajatino16/github-readme-stats)
  
