@@ -39,3 +39,4 @@ In my spare time, I have been learning more about artificial intelligence. I am 
  
  
 [![](https://github-readme-stats.vercel.app/api?username=Rajatino16)](https://github.com/Rajatino16/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatino16)](https://github.com/Rajatino16/github-readme-stats)
