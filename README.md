@@ -39,7 +39,5 @@ In my spare time, I have been learning more about artificial intelligence. I am 
  
  
 [![](https://github-readme-stats.vercel.app/api?username=Rajatino16&count_private=true)](https://github.com/Rajatino16/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatino16&hide=jupyter%20notebook&layout=compact&langs_count=5)](https://github.com/Rajatino16/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatino16&hide=jupyter%20notebook&layout=compact&langs_count=6)](https://github.com/Rajatino16/github-readme-stats)
  
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
