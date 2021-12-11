@@ -38,5 +38,4 @@ In my spare time, I have been learning more about artificial intelligence. I am 
 ## :octocat: Github Stats 
  
  
-![](https://github.com/Rajatino16/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Rajatino16/github-stats/blob/master/generated/languages.svg)
+[![](https://github-readme-stats.vercel.app/api?username=Rajatino16)](https://github.com/Rajatino16/github-readme-stats)
