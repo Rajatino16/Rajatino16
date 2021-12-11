@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   ### Hi there 👋
 My name is Rajat Baxi, I am a final-year Computer Science and Engineering student at Manipal University, India. 
  
-Throughout my years as an Engineering student, I have been involoved in several activities. Recently, I have worked as a Software Development Engineering intern for a start-up named 3DSP, based in Greece, which aimed at developing a medical imaging software that could create 3D models from the medical images of patients. As part of this internship, I got the chance to learn and interact with members belonging to various European countries. 
+I have had several experiences throughout my years as an engineering student. Recently, I have worked as a Software Development Engineering intern for a start-up named 3DSP, based in Greece, which aimed at developing a medical imaging software that could create 3D models from the medical images of patients. As part of this internship, I got the chance to learn and interact with members belonging to various European countries.
 
 As a computer science and engineering student, I have also worked as a web developer for making the website for my university’s annual cultural fest. I have demonstrated an excellent ability to swiftly learn new front-end skills, correctly analyze requirements, and ultimately deliver features on time and with few bugs. I have even worked as a Unity AR/VR development Intern at a start-up wherein I worked on the development of a prototype game that displayed how in-game advertising can be done in a first-person shooter game without disturbing the user’s flow. 
 
