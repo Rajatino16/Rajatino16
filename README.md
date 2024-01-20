@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 <div>
   
   ### Hi there 👋
-🚀 Passionate Software Engineer | Innovative Problem Solver
 
-Greetings! I'm Rajat Baxi, a dynamic and results-driven Software Engineer with a relentless passion for crafting cutting-edge solutions. My academic journey at Manipal University equipped me with a solid foundation, graduating in Computer Science & Engineering.
+I'm Rajat Baxi, a dynamic and results-driven Software Engineer with a relentless passion for crafting cutting-edge solutions. My academic journey at Manipal University equipped me with a solid foundation, graduating in Computer Science & Engineering.
 
 Currently contributing my skills at CoinSwitch, where I wear the hat of a Software Engineer. In this role, I've spearheaded pivotal projects, including crafting an accelerated solution for executing Limit orders within the existing order execution service. My strategic administration of AWS transition limits and introduction of custom exceptions not only supported the prolonged lifespan of Limit orders but also minimized associated AWS expenses. I take pride in optimizing latencies within the order execution flow, achieving a significant reduction from 1400ms-1500ms to 500ms-600ms.
 
