@@ -26,13 +26,29 @@ Here are some ideas to get you started:
 <div>
   
   ### Hi there 👋
-My name is Rajat Baxi, I am a Software Development Engineer 1 at CoinSwitch. 
- 
-I have had several experiences throughout my years as a full-time engineer and as an engineering student. Earlier, I have worked as a Software Development Engineering intern for a start-up named 3DSP, based in Greece, which aimed at developing a medical imaging software that could create 3D models from the medical images of patients. As part of this internship, I got the chance to learn and interact with members belonging to various European countries.
+🚀 Passionate Software Engineer | Innovative Problem Solver
 
-As a computer science and engineering student, I have also worked as a web developer for making the website for my university’s annual cultural fest. I have demonstrated an excellent ability to swiftly learn new front-end skills, correctly analyze requirements, and ultimately deliver features on time and with few bugs. I have even worked as a Unity AR/VR development Intern at a start-up wherein I worked on the development of a prototype game that displayed how in-game advertising can be done in a first-person shooter game without disturbing the user’s flow. 
+Greetings! I'm Rajat Baxi, a dynamic and results-driven Software Engineer with a relentless passion for crafting cutting-edge solutions. My academic journey at Manipal University equipped me with a solid foundation, graduating in Computer Science & Engineering.
 
-In my spare time, I have been learning more about artificial intelligence. I am very excited about its promising applications, and it has opened my eyes to a broader range of problems that I can solve. I am working to combine my web development experience and my interest in AI to deliver game-changing user experiences. 
+Currently contributing my skills at CoinSwitch, where I wear the hat of a Software Engineer. In this role, I've spearheaded pivotal projects, including crafting an accelerated solution for executing Limit orders within the existing order execution service. My strategic administration of AWS transition limits and introduction of custom exceptions not only supported the prolonged lifespan of Limit orders but also minimized associated AWS expenses. I take pride in optimizing latencies within the order execution flow, achieving a significant reduction from 1400ms-1500ms to 500ms-600ms.
+
+Prior to this, I interned with 3DSP Greece and OETD Labs, where I played a crucial role in developing medical imaging software for creating 3D surgical models and worked on innovative projects in AR/VR.
+
+Key Highlights:
+🏆 Awarded Best Intern 2022 at CoinSwitch.
+🌐 Led a remote team at 3DSP Greece, fostering collaboration across members from various european countries.
+🎯 Secured All India Rank – 405 (99.47 Percentile) in GATE 2022.
+🤝 Guided and mentored as General Secretary at Satellite Club, Manipal University.
+🏅 Achieved All India Rank – 84 in the National Creativity Olympiad by IIT Delhi.
+🎓 Elected as Chief Representative (Head Boy) for the student council at Delhi Public School, Rajkot.
+
+Technical Proficiency:
+💻 Programming Languages: Golang, Python, Java, C++, JavaScript, SQL
+🧰 Developer Tools: AWS, Unity3D, Jira, Confluence, BitBucket, Grafana, Retool
+🛠 Technologies/Frameworks: Git, Redis, AWS (SQS, Lambdas, Step Functions), Redash, ELK Stack, Jenkins
+📚 Relevant Courses: Operating Systems, Database Management, Computer Networks, OOP, Data Structures, Software Engineering, Regression Analysis, Digital Image Processing.
+
+I am enthusiastic about leveraging technology to overcome challenges and create impactful solutions. Let's connect and explore opportunities to collaborate on exciting projects or discuss the ever-evolving tech landscape! 🚀✨
 
 
 ## :octocat: Github Stats 
