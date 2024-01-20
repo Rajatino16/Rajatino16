@@ -33,18 +33,18 @@ Currently contributing my skills at CoinSwitch, where I wear the hat of a Softwa
 
 Prior to this, I interned with 3DSP Greece and OETD Labs, where I played a crucial role in developing medical imaging software for creating 3D surgical models and worked on innovative projects in AR/VR.
 
-Key Highlights:
-🏆 Awarded Best Intern 2022 at CoinSwitch.
-🌐 Led a remote team at 3DSP Greece, fostering collaboration across members from various european countries.
-🎯 Secured All India Rank – 405 (99.47 Percentile) in GATE 2022.
-🤝 Guided and mentored as General Secretary at Satellite Club, Manipal University.
-🏅 Achieved All India Rank – 84 in the National Creativity Olympiad by IIT Delhi.
+Key Highlights:  
+🏆 Awarded Best Intern 2022 at CoinSwitch.  
+🌐 Led a remote team at 3DSP Greece, fostering collaboration across members from various European countries.  
+🎯 Secured All India Rank – 405 (99.47 Percentile) in GATE 2022.  
+🤝 Guided and mentored as General Secretary at Satellite Club, Manipal University.  
+🏅 Achieved All India Rank – 84 in the National Creativity Olympiad by IIT Delhi.  
 🎓 Elected as Chief Representative (Head Boy) for the student council at Delhi Public School, Rajkot.
 
-Technical Proficiency:
-💻 Programming Languages: Golang, Python, Java, C++, JavaScript, SQL
-🧰 Developer Tools: AWS, Unity3D, Jira, Confluence, BitBucket, Grafana, Retool
-🛠 Technologies/Frameworks: Git, Redis, AWS (SQS, Lambdas, Step Functions), Redash, ELK Stack, Jenkins
+Technical Proficiency:  
+💻 Programming Languages: Golang, Python, Java, C++, JavaScript, SQL  
+🧰 Developer Tools: AWS, Unity3D, Jira, Confluence, BitBucket, Grafana, Retool  
+🛠 Technologies/Frameworks: Git, Redis, AWS (SQS, Lambdas, Step Functions), Redash, ELK Stack, Jenkins  
 📚 Relevant Courses: Operating Systems, Database Management, Computer Networks, OOP, Data Structures, Software Engineering, Regression Analysis, Digital Image Processing.
 
 I am enthusiastic about leveraging technology to overcome challenges and create impactful solutions. Let's connect and explore opportunities to collaborate on exciting projects or discuss the ever-evolving tech landscape! 🚀✨
